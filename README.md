@@ -1,0 +1,2 @@
+# Master-Projekt-ENTWICKLUNG-EINE-DREHVORRICHTUNG-F-R-EINEN-LABORAUFBAU
+Ein Programm auf das Raspberry Pi mit dem kann eine Person per Mausklick, das Schrittmotor bewegen lässt. Eine Schnittstelle zwischen einem Menschen und dem Schrittmotor designt werden muss. Durch diese Schnittstelle kann man auf einen Winkel oder auf einen Punkt in einem Kreis klicken, dann wird der Motor gemäß diesem Winkel oder Punkt bewegt.
